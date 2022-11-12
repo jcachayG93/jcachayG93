@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julio Cachay @jcachayG93
 - 👀  I'm a full stack developer, with DotNet and Angular.
-- 👌 I'm an entrepreneur who build an amazing company.
+- 👌 I'm an entrepreneur who built an amazing company.
 - 😒 But then I closed it.
 - 😁 So I did what I always do, work hard, study and start again.
 - 😊 This time in something I really like, software.
