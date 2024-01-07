@@ -12,5 +12,9 @@ Sometimes, I post code in this repo as an example for other developers, speciall
 
 To do so is hard and intimidating, but like everything, if you keep pushing you will get there. The trick, I think, is to enjoy the profession, to be passionate about it and never stop learning.
 
+By the way, you know what is pretty fun and useful? Domain Driven Design. 
+
+This one is a work in progress, but is a great example: [soccer project](https://github.com/jcachayG93/soccer-time)
+
 
 
