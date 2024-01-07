@@ -16,5 +16,7 @@ By the way, you know what is pretty fun and useful? Domain Driven Design.
 
 This one is a work in progress, but is a great example: [soccer project](https://github.com/jcachayG93/soccer-time)
 
+This one is a demo on how to use Asp.Net core middleware to centralize app behavior: [Middleware example[(https://github.com/jcachayG93/exception-handler-middleware-example)
 
-
+What about the other Repos?
+Most of them are just experiments I made over the years. 
