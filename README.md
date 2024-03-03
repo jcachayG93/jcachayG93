@@ -1,18 +1,24 @@
-My name is Julio Cachay. I am a full-stack developer in Chattanooga, TN. I work at a great company: Datably Inc.
+I have a vast background in Business, marketing, and engineering, with experience in first-of-kind projects that require innovation and creativity.
 
-I like to write code I can feel proud of, so I spend a lot of time and energy researching and learning best practices. 
+I decided to become a software developer in 2017, spent the time and energy necessary to learn best practices, and experimented with different techniques to make my code easy to understand and change.
 
-I love solving complex problems and learning new technologies; my job allows me to do that.
+I have demonstrated my ability to solve complex software problems by applying solid engineering principles, creativity, and theoretical knowledge to produce high-quality software efficiently.
 
-I switched careers late in life, like many people do. It took me a few years of constant, hard work to get where I am now. When I started, it was overwhelming.
+I am highly adaptable and can easily pick up new languages, understand legacy systems, and think creatively to solve a wide range of problems.
 
-Now, I can look back and feel proud and happy about my achievements.
 
-Sometimes, I post code in this repo as an example for other developers, especially those starting this path. 
+I am a goal-oriented developer who always keeps up to date with the latest state of the craft.
 
-Doing so is complicated and intimidating, but like everything, if you keep pushing, you will get there. This is easier if you enjoy the profession, are passionate about it, and never stop learning.
 
 # Important repositories
+## My Portfolio Project
+This project serves two purposes: 
+1. It is a free, open source resource for people looking to learn C#.
+2. It is my professional portfolio project.
+
+It is also my most recent project.
+
+[CustomerOrderShipments](https://github.com/jcachayG93/customer-orders-shipments_net8api)
 ## One showcasing a good Domain Driven Design methodology
 This one is a work in progress but is a great example: [soccer project](https://github.com/jcachayG93/soccer-time)
 
