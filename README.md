@@ -1,3 +1,5 @@
+Hello, my name is Julio Cachay. I am a Full-Stack developer from Chattanooga, TN. USA.
+
 I have a vast background in Business, marketing, and engineering, with experience in first-of-kind projects that require innovation and creativity.
 
 I decided to become a software developer in 2017, spent the time and energy necessary to learn best practices, and experimented with different techniques to make my code easy to understand and change.
@@ -13,7 +15,7 @@ I am a goal-oriented developer who always keeps up to date with the latest state
 ## Important repositories
 ## My Portfolio Project
 This project serves two purposes: 
-1. It is a free, open source resource for people looking to learn C#.
+1. It is a free, open-source resource for people looking to learn C#.
 2. It is my professional portfolio project.
 
 It is also my most recent project.
