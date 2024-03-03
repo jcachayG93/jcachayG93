@@ -10,7 +10,7 @@ I am highly adaptable and can easily pick up new languages, understand legacy sy
 I am a goal-oriented developer who always keeps up to date with the latest state of the craft.
 
 
-# Important repositories
+## Important repositories
 ## My Portfolio Project
 This project serves two purposes: 
 1. It is a free, open source resource for people looking to learn C#.
